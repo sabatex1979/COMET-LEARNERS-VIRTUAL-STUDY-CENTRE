@@ -1,0 +1,5 @@
+{
+  "name": "EduSphere Online School Portal",
+  "description": "A comprehensive online school management system featuring student and teacher registration, class management, library attendance, computer-based testing, fee payment, results portal, and an AI-powered study assistant.",
+  "requestFramePermissions": []
+}
